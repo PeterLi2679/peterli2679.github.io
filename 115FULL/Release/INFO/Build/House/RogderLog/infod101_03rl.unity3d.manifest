@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 449249539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f9c59eda06d9c765e33fb7ccb4c4674
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9803d0c5f906309f5e12f32bc7be0ebc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3509b940a043dd44b9840db7a505f8e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ca495718be8af84ba0b1a61c0805dcf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cb5c852e898fcf40a5cf453016c5960, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9f701d25ee70424687e8c71173780e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf676fa6dc8da4f40bc6c61c51f9e5b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c47f09c697855ef46899e9ca99754622, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03764527c034387408757e54a50685df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1a206805a6679489c0aaadbf635e61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4443e159b30581b4ca6703acee2466a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4727ca93e2336d4eb91c96e6125ac66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 782a1bc9b121e22418f7897b5c95d373, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdf247f9f7b654c44a0ed5a5c3e0ce1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f91924b716dfb448aea7931efe7d160, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 892e991ecc6c8044d9cdb3834e4fbc67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52adda2ef9eb9d9428ac343c0385696c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e19e19ee7f1d0b468deb5d919684aa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d0b652f32a2cc243917e4028fa0f046, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd4dc27f526552a47b3b58f18fe88f56, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/InfoButton/Build/House/RoundedLog/CanvasHRL101_03RoundedLog.prefab
+Dependencies: []
