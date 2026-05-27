@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.4.8f1
-CRC: 2318366737
+CRC: 110036747
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -8,5 +8,5 @@ AssetBundleManifest:
       Name: unifiedraytracing
       Dependencies: {}
     Info_1:
-      Name: props_2.unity3d
+      Name: curtains.unity3d
       Dependencies: {}
