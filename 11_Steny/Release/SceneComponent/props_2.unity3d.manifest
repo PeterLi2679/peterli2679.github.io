@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.4.8f1
+CRC: 1707800151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e491b171acf8f28b6fcf0164d658c7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35755d991e69bfbee59c7708b3daf4fc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 550852c0e38fafacda07263214e7b0e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9644d6fcb1eeb240b57eee03bdf63ad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GLB/Prefabs/3DPROPSLIVINGROOM.prefab
+Dependencies: []

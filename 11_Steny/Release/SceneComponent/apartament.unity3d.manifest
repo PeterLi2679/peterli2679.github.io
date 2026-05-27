@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.4.8f1
+CRC: 479684006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfc6bba45c8f8ed7e8af8afd4bc8b7de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f417d6de852c0be588bd48f9d0fe1d4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ff136a20888bab5f097d847375477e33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GLB/Prefabs/3D APARTMENT.prefab
+Dependencies: []
